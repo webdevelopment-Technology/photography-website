@@ -5,5 +5,5 @@
 -**Features:** About,portfolio,contact.
 -**Technologies used:** html,css,javascript.
 ## Authors
-- Fatima (GitHub: fatima)
+- Fatima (GitHub: fatimakhan)
 
